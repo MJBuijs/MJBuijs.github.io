@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/marie/</loc>
   </url>
   
@@ -19,7 +15,15 @@
   </url>
   
   <url>
+    <loc>/c/users/marie/documents/site2/mjbuijs.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
